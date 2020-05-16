@@ -1,0 +1,14 @@
+Marcin Mider:
+  name        : "Marcin Mider"
+  bio         : "Researcher at Max Planck Institute for Mathematics in the Sciences."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:marcin.mider@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mmider.github.io"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
